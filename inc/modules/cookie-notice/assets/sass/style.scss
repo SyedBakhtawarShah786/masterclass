@@ -1,0 +1,117 @@
+@import "../../../../assets/sass/mixins";
+@import "../../../../assets/sass/vars";
+.tophive_cookie_notice{
+	text-align: center;
+	padding: 0.666em 1.333em;
+	background: #000;
+	color: #fff;
+	display: none;
+	position: fixed;
+	transition: all .3s ease;
+	z-index: 1000;
+	
+	@include mq( max-xs ){
+		font-size: 0.9em;
+	}
+
+	.notice-content{
+		@include mq( max-xs ){
+			display: block;
+		}
+	}
+
+	&.tophive-cn-box{
+		padding: 1.333em;
+		max-width: 300px;
+		text-align: left;
+		border-radius: 3px;
+
+		.tophive-set-cookie.button{
+			display: table;
+			margin-left: 0;
+			margin-top: 1.5em;
+
+			@include mq( max-xs ){
+				font-size: 0.95em;
+			}
+
+		}
+	}
+
+	&.cn-position-top{
+		top: 0;
+		left: 0;
+		right: 0;
+	}
+
+	&.cn-position-bottom{
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+
+	&.cn-position-top-left{
+		left: 1.333em;
+		top: 1.333em;
+	}
+
+	&.cn-position-top-right{
+		right: 1.333em;
+		top: 1.333em;
+	}
+
+	&.cn-position-bottom-left{
+		left: 1.333em;
+		bottom: 1.333em;
+	}
+
+	&.cn-position-bottom-right{
+		right: 1.333em;
+		bottom: 1.333em;
+	}
+
+	.tophive-set-cookie{
+		&.button{
+			display: inline-block;
+			padding: 0.533em 1.666em;
+			line-height: 1;
+			min-height: auto;
+			border-radius: 3px;
+			margin-left: 1.333em;
+			font-size: 0.8666em;
+			
+			@include mq( max-xs ){
+				margin-top: 0.5em;
+				margin-left: 0;
+			}
+			@include mq( max-sm ){
+				font-size: 0.9em;
+			}
+		}
+	}
+}
+
+.admin-bar{
+	.tophive_cookie_notice{
+		&.cn-position-top-left,
+		&.cn-position-top-right{
+			top: 3.46666666667em;
+		}
+
+		&.cn-position-top{
+			top: 0;
+			z-index: 999999;
+		}
+	}
+}
+
+.tophive-has-cookie-bar{
+	.tophive_cookie_notice{
+		display: block;
+	}
+
+	.scrolltop{
+		z-index: 1100;
+	}
+}
+

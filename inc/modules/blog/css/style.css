@@ -1,0 +1,77 @@
+/*
+$gl-devices-list: (
+    desktop: "screen and (min-width: 64em)", // up 1024px
+    tablet: "screen and (max-width: 64em) and ( min-width: 35.5em )", // 568px - 1024px
+    mobile: "screen and (max-width: 35.5em)" // from to 568px to smaller
+) !default;
+*/
+/************************
+   Device Query
+*************************/
+.entry-cat {
+  position: relative;
+}
+
+.entry-media .entry-cat {
+  position: relative;
+  padding: 10px;
+}
+
+.posts-layout.layout--blog_lateral .entry-media {
+  margin-right: 2em;
+}
+@media screen and (max-width: 568px) {
+  .posts-layout.layout--blog_lateral .entry-media {
+    margin-right: 0px;
+  }
+}
+.posts-layout.layout--blog_lateral .entry.even .entry-content-data {
+  order: 1;
+}
+.posts-layout.layout--blog_lateral .entry.even .entry-media {
+  order: 3;
+  margin-left: 2em;
+  margin-right: 0;
+}
+@media screen and (max-width: 568px) {
+  .posts-layout.layout--blog_lateral .entry.even .entry-media {
+    margin-left: 0px;
+  }
+}
+.posts-layout.layout--blog_masonry .entry {
+  margin-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.posts-layout.layout--blog_masonry .entry-media {
+  display: block;
+  padding-top: 0 !important;
+  position: relative;
+  min-width: 100%;
+  margin-bottom: 1em;
+}
+.posts-layout.layout--blog_masonry .entry-thumbnail {
+  position: relative;
+  display: block;
+  height: auto;
+  line-height: 0;
+}
+.posts-layout.layout--blog_masonry img {
+  object-fit: fill;
+}
+
+/*
+.posts-layout.layout--blog_2column,
+.posts-layout.layout--blog_column,
+.posts-layout.layout--blog_boxed {
+    .entry-inner {
+        display: block;
+        .entry-content-data, .entry-article-header {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
+*/
+
+/*# sourceMappingURL=style.css.map */

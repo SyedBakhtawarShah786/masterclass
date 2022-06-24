@@ -1,0 +1,90 @@
+// Admin Metabox styling
+$border_color: #ddd;
+#font-div .inside {
+    padding: 14px 20px 20px;
+}
+.font-file-group {
+    margin-bottom: 15px;
+    &:last-child{
+        margin-bottom: 0px;
+    }
+    .font-edit {
+        display: none;
+    }
+    .font-close {
+        display: inline-block;
+    }
+    &.close {
+        .font-close {
+            display: none;
+        }
+        .font-edit {
+            display: inline-block;
+        }
+        .font-file-body {
+            display: none;
+        }
+    }
+
+    display: block;
+    border: 1px solid $border_color;
+
+    .font-file-header {
+        border-bottom: 1px solid $border_color;
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        select {
+            margin-right: 10px;
+            margin-left: 5px;
+        }
+    }
+    .font-actions {
+        margin-left: auto;
+        text-align: right;
+        a{
+            text-decoration: none;
+            color: #333333;
+            margin-right: 10px;
+            &:last-child {
+                margin-right: 0px;
+            }
+        }
+    }
+    .font-file-body {
+        padding: 20px;
+        background: #f5f5f5;
+    }
+    .font-file-field {
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        box-shadow: 0 3px 5px rgba(0,0,0,.05);
+        margin-bottom: 15px;
+        background: #ffffff;
+        &:last-child {
+            margin-bottom: 0px;
+        }
+    }
+    .font-file-button {
+        margin-left: auto;
+    }
+    .font-file-label {
+        flex-basis: 20%;
+    }
+    .font-file-input {
+        flex-basis: 80%;
+        input {
+            display: block;
+            width: 100%;
+        }
+    }
+    .font-file-button {
+        flex-basis: 100px;
+        text-align: center;
+    }
+}
+
+.list-fonts {
+    margin-bottom: 15px;
+}

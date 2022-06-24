@@ -1,0 +1,87 @@
+#font-div .inside {
+  padding: 14px 20px 20px;
+}
+
+.font-file-group {
+  margin-bottom: 15px;
+  display: block;
+  border: 1px solid #ddd;
+}
+.font-file-group:last-child {
+  margin-bottom: 0px;
+}
+.font-file-group .font-edit {
+  display: none;
+}
+.font-file-group .font-close {
+  display: inline-block;
+}
+.font-file-group.close .font-close {
+  display: none;
+}
+.font-file-group.close .font-edit {
+  display: inline-block;
+}
+.font-file-group.close .font-file-body {
+  display: none;
+}
+.font-file-group .font-file-header {
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+.font-file-group .font-file-header select {
+  margin-right: 10px;
+  margin-left: 5px;
+}
+.font-file-group .font-actions {
+  margin-left: auto;
+  text-align: right;
+}
+.font-file-group .font-actions a {
+  text-decoration: none;
+  color: #333333;
+  margin-right: 10px;
+}
+.font-file-group .font-actions a:last-child {
+  margin-right: 0px;
+}
+.font-file-group .font-file-body {
+  padding: 20px;
+  background: #f5f5f5;
+}
+.font-file-group .font-file-field {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.05);
+  margin-bottom: 15px;
+  background: #ffffff;
+}
+.font-file-group .font-file-field:last-child {
+  margin-bottom: 0px;
+}
+.font-file-group .font-file-button {
+  margin-left: auto;
+}
+.font-file-group .font-file-label {
+  flex-basis: 20%;
+}
+.font-file-group .font-file-input {
+  flex-basis: 80%;
+}
+.font-file-group .font-file-input input {
+  display: block;
+  width: 100%;
+}
+.font-file-group .font-file-button {
+  flex-basis: 100px;
+  text-align: center;
+}
+
+.list-fonts {
+  margin-bottom: 15px;
+}
+
+/*# sourceMappingURL=style.css.map */

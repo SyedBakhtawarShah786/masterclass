@@ -1,0 +1,73 @@
+#bbpress-forums div.bbp-forum-content, 
+#bbpress-forums div.bbp-reply-content, 
+#bbpress-forums div.bbp-topic-content{
+	margin-left: 80px;	
+}
+#bbpress-forums div.bbp-forum-author, 
+#bbpress-forums div.bbp-reply-author, 
+#bbpress-forums div.bbp-topic-author{
+	width: 80px;
+}
+#bbpress-forums div.bbp-forum-author img.avatar, #bbpress-forums div.bbp-reply-author img.avatar, #bbpress-forums div.bbp-topic-author img.avatar{
+	border-radius: 50px;
+}
+#bbpress-forums div.bbp-forum-content .bbp-author-link, 
+#bbpress-forums div.bbp-reply-content .bbp-author-link, 
+#bbpress-forums div.bbp-topic-content .bbp-author-link{
+	font-size: 14px;
+	font-weight: 600;
+}
+#bbpress-forums div.bbp-forum-content .bbp-author-role, 
+#bbpress-forums div.bbp-reply-content .bbp-author-role, 
+#bbpress-forums div.bbp-topic-content .bbp-author-role{
+	display: inline-block;
+	margin-left: 10px;
+	background: #a29bfe;
+	padding: 0px 6px;
+	border-radius: 2px;
+	color: #fff;
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+#bbpress-forums div.bbp-forum-content p, 
+#bbpress-forums div.bbp-reply-content p, 
+#bbpress-forums div.bbp-topic-content p{
+	margin-top: 15px;
+	font-size: 14px;
+	line-height: 24px;
+}
+#bbpress-forums li.bbp-footer, #bbpress-forums li.bbp-header{
+	display: none;
+}
+#bbpress-forums div.bbp-reply-content .bbp-reply-content-meta{
+    float: right;
+} 
+#bbpress-forums div.bbp-reply-content .bbp-reply-content-meta .bbp-reply-post-date{
+
+} 
+#bbpress-forums div.bbp-reply-content .bbp-reply-content-meta .bbp-admin-links{
+    position: absolute;
+    top: 13px;
+    right: 11px;
+    background: #fff;
+    padding: 10px;
+    display: none;
+} 
+#bbpress-forums div.bbp-reply-content .bbp-reply-content-meta .bbp-admin-links a{
+    display: block;
+    font-size: 12px;
+    text-transform: capitalize;
+    padding: 6px;
+} 
+.tophive-bbpress-topic-question-main{
+    background: #fff;
+    padding: 10px 30px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+.tophive-bbpress-topic-question-main h2.topic-title{
+    margin-top: 20px;
+    line-height: 36px;
+}

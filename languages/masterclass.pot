@@ -1,0 +1,2239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2020-10-04 23:49+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:20
+msgid "Ooooops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: header-bare.php:24 header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: page-instructor.php:39 profile-page.php:151
+msgid " Courses"
+msgstr ""
+
+#: page-instructor.php:40 profile-page.php:152
+#: inc/compatibility/learnpress/learnpress.php:380
+#: inc/compatibility/learnpress/learnpress.php:382
+msgid " Students"
+msgstr ""
+
+#: page-instructor.php:49 profile-page.php:162
+msgid "Email : "
+msgstr ""
+
+#: page-instructor.php:57 profile-page.php:171
+msgid "Website : "
+msgstr ""
+
+#: profile-page.php:27
+msgid "Login"
+msgstr ""
+
+#: profile-page.php:35 profile-page.php:39
+msgid "Username or email"
+msgstr ""
+
+#: profile-page.php:45 profile-page.php:48 profile-page.php:97
+#: profile-page.php:102
+msgid "Password"
+msgstr ""
+
+#: profile-page.php:56
+msgid "Remember me"
+msgstr ""
+
+#: profile-page.php:58
+msgid "Lost your password?"
+msgstr ""
+
+#: profile-page.php:63
+msgid "Login"
+msgstr ""
+
+#: profile-page.php:67
+msgid "Not Registered? "
+msgstr ""
+
+#: profile-page.php:67
+msgid "Sign up"
+msgstr ""
+
+#: profile-page.php:73
+msgid "Sign Up"
+msgstr ""
+
+#: profile-page.php:81 profile-page.php:84
+msgid "Username"
+msgstr ""
+
+#: profile-page.php:89 profile-page.php:92
+msgid "Email"
+msgstr ""
+
+#: profile-page.php:104
+msgid ""
+"The password should be at least twelve characters long. To make it stronger, "
+"use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ "
+"&amp; )"
+msgstr ""
+
+#: profile-page.php:110
+msgid "Already registered? "
+msgstr ""
+
+#: profile-page.php:110
+msgid "Signin"
+msgstr ""
+
+#: profile-page.php:114
+msgid "Register"
+msgstr ""
+
+#: profile-page.php:340
+msgid "This user does not public their profile."
+msgstr ""
+
+#: inc/class-categories-walker.php:73
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: inc/class-metabox-fields.php:442 inc/class-metabox.php:129
+#: inc/class-tophive.php:435
+msgid "Default"
+msgstr ""
+
+#: inc/class-metabox-fields.php:512
+msgid "Select image"
+msgstr ""
+
+#: inc/class-metabox-fields.php:513
+msgid "Remove"
+msgstr ""
+
+#: inc/class-metabox.php:47
+msgid "Layout"
+msgstr ""
+
+#: inc/class-metabox.php:55
+#: inc/compatibility/learnpress/config/categories.php:163
+msgid "Page Header"
+msgstr ""
+
+#: inc/class-metabox.php:62
+msgid "Content Layout"
+msgstr ""
+
+#: inc/class-metabox.php:67
+msgid "Full Width"
+msgstr ""
+
+#: inc/class-metabox.php:68
+msgid "Full Width - Stretched"
+msgstr ""
+
+#: inc/class-metabox.php:76
+msgid "Content spaing"
+msgstr ""
+
+#: inc/class-metabox.php:81
+msgid "Medium space"
+msgstr ""
+
+#: inc/class-metabox.php:82
+msgid "Extra small space"
+msgstr ""
+
+#: inc/class-metabox.php:83
+msgid "Small space"
+msgstr ""
+
+#: inc/class-metabox.php:84
+msgid "Large space"
+msgstr ""
+
+#: inc/class-metabox.php:85
+msgid "Xtra Large space"
+msgstr ""
+
+#: inc/class-metabox.php:86
+msgid "No gap"
+msgstr ""
+
+#: inc/class-metabox.php:93
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/class-metabox.php:99 inc/class-metabox.php:128
+#: inc/class-metabox.php:152
+msgid "Inherit from customize settings"
+msgstr ""
+
+#: inc/class-metabox.php:103
+msgid "Disable Header"
+msgstr ""
+
+#: inc/class-metabox.php:104
+msgid "Disable Title"
+msgstr ""
+
+#: inc/class-metabox.php:107
+msgid "Disable Footer Top"
+msgstr ""
+
+#: inc/class-metabox.php:109
+msgid "Disable Footer Main"
+msgstr ""
+
+#: inc/class-metabox.php:110
+msgid "Disable Footer Bottom"
+msgstr ""
+
+#: inc/class-metabox.php:113
+msgid "Disable Elements"
+msgstr ""
+
+#: inc/class-metabox.php:123 inc/compatibility/breadcrumb.php:184
+#: inc/compatibility/breadcrumb.php:189
+msgid "Display"
+msgstr ""
+
+#: inc/class-metabox.php:130
+msgid "Cover"
+msgstr ""
+
+#: inc/class-metabox.php:131
+msgid "Titlebar"
+msgstr ""
+
+#: inc/class-metabox.php:132 inc/class-metabox.php:153
+msgid "Hide"
+msgstr ""
+
+#: inc/class-metabox.php:141 inc/class-metabox.php:147
+#: inc/compatibility/breadcrumb.php:86
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/class-metabox.php:154
+msgid "Show"
+msgstr ""
+
+#: inc/class-tophive.php:168
+msgid "Primary"
+msgstr ""
+
+#: inc/class-tophive.php:169
+msgid "Secondary"
+msgstr ""
+
+#: inc/class-tophive.php:170
+msgid "Tertiery"
+msgstr ""
+
+#: inc/class-tophive.php:171
+msgid "Querternary"
+msgstr ""
+
+#: inc/class-tophive.php:243
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/class-tophive.php:245 inc/class-tophive.php:256
+#: inc/class-tophive.php:270
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/class-tophive.php:254
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: inc/class-tophive.php:268
+#, php-format
+msgid "Footer Sidebar %d"
+msgstr ""
+
+#: inc/class-tophive.php:433
+msgid "Clear"
+msgstr ""
+
+#: inc/class-tophive.php:434
+msgid "Clear color"
+msgstr ""
+
+#: inc/class-tophive.php:436
+msgid "Select default color"
+msgstr ""
+
+#: inc/class-tophive.php:437
+msgid "Select Color"
+msgstr ""
+
+#: inc/class-tophive.php:438
+msgid "Color value"
+msgstr ""
+
+#: inc/class-tophive.php:744 inc/class-tophive.php:809
+msgid "Wrong credentials"
+msgstr ""
+
+#: inc/class-tophive.php:749
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/class-tophive.php:753
+msgid "Validation failed"
+msgstr ""
+
+#: inc/class-tophive.php:777
+msgid "Your password should be at least 12 character long"
+msgstr ""
+
+#: inc/class-tophive.php:783
+msgid "Your Password Must Contain At Least 1 Number!"
+msgstr ""
+
+#: inc/class-tophive.php:789
+msgid "Your Password Must Contain At Least 1 Capital Letter!"
+msgstr ""
+
+#: inc/class-tophive.php:795
+msgid "Your Password Must Contain At Least 1 Lowercase Letter!"
+msgstr ""
+
+#: inc/class-tophive.php:804
+msgid "Signup successful. Logging in ..."
+msgstr ""
+
+#: inc/class-tophive.php:816
+msgid "User Name and Email are mandatory"
+msgstr ""
+
+#: inc/class-tophive.php:821
+msgid "User name already exixts."
+msgstr ""
+
+#: inc/class-tophive.php:826
+msgid "Error Occured please fill up the sign up form carefully."
+msgstr ""
+
+#: inc/template-functions.php:11
+msgid "Content / Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:12
+msgid "Sidebar / Content"
+msgstr ""
+
+#: inc/template-functions.php:13
+msgid "Content (no sidebars)"
+msgstr ""
+
+#: inc/template-functions.php:14
+msgid "Sidebar / Content / Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:15
+msgid "Sidebar / Sidebar / Content"
+msgstr ""
+
+#: inc/template-functions.php:16
+msgid "Content / Sidebar / Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:316
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-functions.php:318
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-functions.php:320
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-functions.php:337 inc/template-functions.php:338
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/template-functions.php:338
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Post author"
+msgstr ""
+
+#: inc/template-tags.php:114
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:117 inc/compatibility/learnpress/lessons.php:73
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:136
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/admin/dashboard.php:22
+msgid "Welcome to MasterClass by Tophive"
+msgstr ""
+
+#: inc/admin/dashboard.php:23
+msgid "MasterClass"
+msgstr ""
+
+#: inc/admin/dashboard.php:87
+msgid "installed"
+msgstr ""
+
+#: inc/admin/dashboard.php:88 inc/admin/dashboard.php:447
+#: inc/admin/dashboard.php:569
+msgid "Activating..."
+msgstr ""
+
+#: inc/admin/dashboard.php:94 inc/admin/dashboard.php:118
+msgid "invalid"
+msgstr ""
+
+#: inc/admin/dashboard.php:111
+msgid "active"
+msgstr ""
+
+#: inc/admin/dashboard.php:112 inc/admin/dashboard.php:434
+#: inc/admin/dashboard.php:445
+msgid "Active"
+msgstr ""
+
+#: inc/admin/dashboard.php:115
+msgid "Activation failed"
+msgstr ""
+
+#: inc/admin/dashboard.php:184
+msgid "Activation failed, please try again!"
+msgstr ""
+
+#: inc/admin/dashboard.php:224
+msgid "All Plugins are installed"
+msgstr ""
+
+#: inc/admin/dashboard.php:329
+msgid "Start importing"
+msgstr ""
+
+#: inc/admin/dashboard.php:330
+msgid ""
+"This will take a few minutes to complete.Please don not close this window "
+"while installing"
+msgstr ""
+
+#: inc/admin/dashboard.php:333
+msgid "Start Importing"
+msgstr ""
+
+#: inc/admin/dashboard.php:334
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/dashboard.php:346 inc/admin/dashboard.php:358
+msgid "next"
+msgstr ""
+
+#: inc/admin/dashboard.php:349 inc/admin/dashboard.php:381
+msgid "Proceed Next"
+msgstr ""
+
+#: inc/admin/dashboard.php:351 inc/admin/dashboard.php:383
+#: inc/admin/dashboard.php:389
+msgid "Return to demos"
+msgstr ""
+
+#: inc/admin/dashboard.php:363
+msgid " All Plugins has been installed and activated"
+msgstr ""
+
+#: inc/admin/dashboard.php:371
+msgid "Required Plugin"
+msgstr ""
+
+#: inc/admin/dashboard.php:372
+msgid "This plugins are required to install this demo"
+msgstr ""
+
+#: inc/admin/dashboard.php:387
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/dashboard.php:436
+msgid "Waiting Activation"
+msgstr ""
+
+#: inc/admin/dashboard.php:438
+msgid "Installation Required"
+msgstr ""
+
+#: inc/admin/dashboard.php:449
+msgid "Installing..."
+msgstr ""
+
+#: inc/admin/dashboard.php:500
+msgid "Dashboard"
+msgstr ""
+
+#: inc/admin/dashboard.php:506
+msgid "Activation"
+msgstr ""
+
+#: inc/admin/dashboard.php:512
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin/dashboard.php:518
+msgid "Customization"
+msgstr ""
+
+#: inc/admin/dashboard.php:524
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/dashboard.php:530
+msgid "System Status"
+msgstr ""
+
+#: inc/admin/dashboard.php:536
+msgid "Update"
+msgstr ""
+
+#: inc/admin/dashboard.php:570
+msgid "Activate Masterclass"
+msgstr ""
+
+#: inc/admin/dashboard.php:620
+msgid "logo"
+msgstr ""
+
+#: inc/admin/dashboard.php:623
+msgid "Version: "
+msgstr ""
+
+#: inc/admin/dashboard.php:692
+msgid "Yahoo!! Your theme is up-to-date."
+msgstr ""
+
+#: inc/admin/dashboard.php:696
+msgid "Activate Your Theme To Get Updates"
+msgstr ""
+
+#: inc/admin/dashboard.php:697 inc/admin/dashboard.php:729
+#: inc/admin/dashboard.php:978
+msgid "Activate MasterClass"
+msgstr ""
+
+#: inc/admin/dashboard.php:720
+msgid "Cheers!!Your theme is activated."
+msgstr ""
+
+#: inc/admin/dashboard.php:725 inc/admin/dashboard.php:977
+msgid "Activate Your Theme To Get Started"
+msgstr ""
+
+#: inc/admin/dashboard.php:735
+msgid "Hoorayyy ! You Have Successfully Activated MasterClass"
+msgstr ""
+
+#: inc/admin/dashboard.php:761
+msgid "Recommended plugins"
+msgstr ""
+
+#: inc/admin/dashboard.php:762
+msgid ""
+"Here We have recommended to install some plugins. Here some plugins are must "
+"with essential tab.You can install and activate them here and deactivate or "
+"delete from wordpress plugin page"
+msgstr ""
+
+#: inc/admin/dashboard.php:767
+msgid "All plugins"
+msgstr ""
+
+#: inc/admin/dashboard.php:784 inc/admin/dashboard.php:824
+msgid "Name"
+msgstr ""
+
+#: inc/admin/dashboard.php:785 inc/admin/dashboard.php:825
+msgid "Description"
+msgstr ""
+
+#: inc/admin/dashboard.php:787 inc/admin/dashboard.php:827
+msgid "Status"
+msgstr ""
+
+#: inc/admin/dashboard.php:790 inc/admin/dashboard.php:830
+msgid "Version"
+msgstr ""
+
+#: inc/admin/dashboard.php:861
+msgid "Install Plugins.."
+msgstr ""
+
+#: inc/admin/dashboard.php:989
+msgid "Import Demo Sites"
+msgstr ""
+
+#: inc/admin/dashboard.php:990
+msgid "import from premade demos"
+msgstr ""
+
+#: inc/admin/dashboard.php:991
+msgid "Start import"
+msgstr ""
+
+#: inc/admin/dashboard.php:997
+msgid "Customize Masterclass"
+msgstr ""
+
+#: inc/admin/dashboard.php:998
+msgid "huge customization options"
+msgstr ""
+
+#: inc/admin/dashboard.php:999
+msgid "Start customizing"
+msgstr ""
+
+#: inc/admin/dashboard.php:1007
+msgid "Find a support"
+msgstr ""
+
+#: inc/admin/dashboard.php:1008
+msgid "support from professionals"
+msgstr ""
+
+#: inc/admin/dashboard.php:1009
+msgid "Submit a ticket"
+msgstr ""
+
+#: inc/admin/dashboard.php:1015
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/admin/dashboard.php:1016
+msgid "Documentation with FAQs"
+msgstr ""
+
+#: inc/admin/dashboard.php:1017
+msgid "Go to Documentation"
+msgstr ""
+
+#: inc/admin/importer/customizer-import.php:25
+#: inc/admin/importer/customizer-import.php:32
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/admin/importer/customizer-import.php:30
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/admin/importer/customizer-import.php:53
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/admin/importer/customizer-import.php:70
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/admin/importer/customizer-import.php:76
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/admin/importer/helpers.php:194 inc/admin/importer/helpers.php:237
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: inc/admin/importer/helpers.php:271
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: inc/admin/importer/helpers.php:294
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/admin/importer/helpers.php:305
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:306
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:318
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:326
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:366
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: inc/admin/importer/helpers.php:400
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:433
+msgid "No file provided."
+msgstr ""
+
+#: inc/admin/importer/helpers.php:462
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:466 inc/admin/importer/helpers.php:483
+#: inc/admin/importer/helpers.php:500 inc/admin/importer/helpers.php:511
+#: inc/admin/importer/helpers.php:531 inc/admin/importer/helpers.php:539
+msgid "Upload files"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:479
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:496
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:509
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:527
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:537
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:563
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:567
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: inc/admin/importer/helpers.php:570 inc/admin/importer/helpers.php:571
+#: inc/admin/importer/helpers.php:572 inc/admin/importer/helpers.php:573
+msgid "not defined!"
+msgstr ""
+
+#: inc/admin/importer/import-downloader.php:54
+msgid "Missing Download URL!"
+msgstr ""
+
+#: inc/admin/importer/import-downloader.php:69
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: inc/admin/importer/importer.php:129
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/Importer.php:504
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/admin/importer/redux-importer.php:15
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: inc/admin/importer/redux-importer.php:22
+#: inc/admin/importer/redux-importer.php:39
+#: inc/admin/importer/redux-importer.php:50
+msgid "Importing Redux settings"
+msgstr ""
+
+#: inc/admin/importer/redux-importer.php:37
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: inc/admin/importer/redux-importer.php:43
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:69
+msgid "Manually uploaded files"
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:77
+#: inc/admin/importer/tophive-demo-import.php:86
+msgid "Downloaded files"
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:82
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:90
+msgid "No import files specified!"
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:156
+#: inc/admin/importer/tophive-demo-import.php:168
+msgid "Cheers !! Everything Done"
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:157
+#: inc/admin/importer/tophive-demo-import.php:169
+msgid "Congratulations!!You have successfully completed importing the demo."
+msgstr ""
+
+#: inc/admin/importer/tophive-demo-import.php:160
+#: inc/admin/importer/tophive-demo-import.php:172
+msgid "Close Importer"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:31
+#: inc/admin/importer/widget-importer.php:43
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:79
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:109
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:146
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:167
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:200
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:265
+msgid "Imported"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:269
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:275
+msgid "No Title"
+msgstr ""
+
+#: inc/admin/importer/widget-importer.php:318
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:33
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:36
+msgid "Here are the predefined demo imports:"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:53
+msgid ""
+"At least one of the possible options should be set! Check them with --help"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:104
+msgid ""
+"The \"predefined\" parameter should be a number (an index of the predefined "
+"demo import)!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:110
+msgid ""
+"The supplied predefined index does not exist! Please take a look at the "
+"available predefined demo imports:"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:117
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:122
+#, php-format
+msgid "Selected predefined demo import: %s"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:125
+msgid "Preparing the demo import files..."
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:130
+msgid "Demo import files could not be retrieved!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:133
+msgid "Demo import files retrieved successfully!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:135
+msgid "Importing..."
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:155
+msgid "Predefined import finished!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:167
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:176
+msgid "Importing content (this might take a while)..."
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:178
+msgid "Importing content"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:183
+msgid "Content import finished!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:186
+msgid "There were some issues while importing the content!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:205
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:209
+msgid "Importing widgets..."
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:214
+msgid "Widgets imported successfully!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:217
+msgid "There were some issues while importing widgets!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:236
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:240
+msgid "Importing customizer settings..."
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:245
+msgid "Customizer settings imported successfully!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:248
+msgid "There were some issues while importing customizer settings!"
+msgstr ""
+
+#: inc/admin/importer/wp-cli-commands.php:268
+#, php-format
+msgid "Executing action: %s ..."
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/Importer.php:55
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/Importer.php:248
+msgid "Content import start error: "
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/Importer.php:280
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:170
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:288
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:372
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:132
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:522
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:585
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:686
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:778
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:788
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:866
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:880
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:912
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1830
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:917
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:957
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1102
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1601
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1622
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1626
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1791
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1835
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1894
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1903
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1955
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1977
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:1983
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2008
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2021
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2026
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2040
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2045
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2071
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2082
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2127
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2132
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2154
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2158
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2172
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2176
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2193
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2224
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2234
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2244
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2252
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2266
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2285
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2295
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2330
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: inc/admin/importer/awesomemotive/wp-content-importer-v2/WXRImporter.php:2339
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:20
+msgctxt "post meta separator"
+msgid "-"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:23
+msgctxt "post term separator"
+msgid ","
+msgstr ""
+
+#: inc/blog/class-post-entry.php:266 inc/blog/class-post-entry.php:283
+#: inc/blog/class-post-entry.php:332
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/blog/class-post-entry.php:287
+msgid "Share this post"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:334
+msgid "Posted in "
+msgstr ""
+
+#: inc/blog/class-post-entry.php:354
+msgid "1 Comment"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:360
+#, php-format
+msgctxt "comments number"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/blog/class-post-entry.php:606
+msgid "Read more &rarr;"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:608
+msgid "Read more &larr;"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:613
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:654
+msgid "About The Author"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:694 inc/compatibility/learnpress/quiz.php:163
+msgid "Next"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:695
+msgid "Next post:"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:699
+msgid "Previous"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:700
+msgid "Previous post:"
+msgstr ""
+
+#: inc/blog/class-post-entry.php:746
+msgid "Pages:"
+msgstr ""
+
+#: inc/blog/class-posts-layout.php:436
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr ""
+
+#: inc/blog/class-posts-layout.php:439
+msgctxt "next set of posts"
+msgid "Next"
+msgstr ""
+
+#: inc/blog/functions-posts-layout.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:91
+msgid ""
+"Tophive theme support <a target=\"_blank\" href=\"https://wordpress.org/"
+"plugins/breadcrumb-navxt/\">Breadcrumb NavXT</a> or <a href=\"https://"
+"wordpress.org/plugins/wordpress-seo/\" target=\"_blank\">Yoast SEO</a> "
+"breadcrumb plugin. All settings will be displayed after you installed and "
+"activated it."
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:106
+msgid "Display Position"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:110
+msgid "After header"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:111
+msgid "Inside cover/titlebar"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:112
+msgid "Before site main"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:121
+msgid "Hide on index"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:126
+msgid "Hide on categories"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:131
+msgid "Hide on search"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:136
+msgid "Hide on archive"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:141
+msgid "Hide on single page"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:146
+msgid "Hide on single post"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:151
+msgid "Hide on singular"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:156
+msgid "Hide on 404 page"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:165
+msgid "Hide on product page"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:170
+msgid "Hide on product category"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:175
+msgid "Hide on product tag"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:185
+msgid "Settings display for special pages."
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:199
+msgid "Typography"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:200
+msgid "Typography for breadcrumb"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:209
+msgid "Styling"
+msgstr ""
+
+#: inc/compatibility/breadcrumb.php:210
+msgid "Styling for breadcrumb"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:49
+#: inc/compatibility/learnpress/course-single.php:60
+msgid "Preview this course"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:163
+msgid "Reviews"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:189
+#: inc/compatibility/learnpress/lessons.php:131
+#: inc/compatibility/learnpress/quiz.php:289
+msgid "Loading..."
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:194
+msgid "Load More"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:212
+msgid "Students reviews"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:219
+#: inc/compatibility/learnpress/course-single.php:227
+msgid "Write a review"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:240
+msgid "Title"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:241
+msgid "Review title"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:244
+msgid ""
+"Describe your personal experience about taking this course.it will help "
+"others"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:250
+msgid "Add review"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:266
+msgid "Review pending approval"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:272
+msgid "Reviewed"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:290
+msgid " Ratings"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:332
+msgid "Course results"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:356
+#, php-format
+msgid "Passing condition: %s%%"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:391
+msgid "Enroll this course"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:400
+msgid "Buy this course"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:419
+msgid "You Already Enrolled"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:466
+#: inc/compatibility/learnpress/quiz.php:358
+#, php-format
+msgid "%d/%d"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:514
+msgid "Preview"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:538
+#: inc/compatibility/learnpress/quiz.php:400
+msgid "No items in this section"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:549
+msgid "Curriculum is empty"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:558
+msgid "Remove from wishlist"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:558
+#: inc/compatibility/learnpress/course-single.php:562
+#: inc/compatibility/learnpress/course-templates.php:149
+#: inc/compatibility/learnpress/course-templates.php:152
+msgid "Add to wishlist"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:584
+msgid " Reviews"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-single.php:593
+msgid "Course by: "
+msgstr ""
+
+#: inc/compatibility/learnpress/course-templates.php:139
+msgid "Purchase"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-templates.php:149
+msgid "Remove From  wishlist"
+msgstr ""
+
+#: inc/compatibility/learnpress/course-templates.php:378
+msgid " Lessons"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:213
+msgid "Sorry ! No Course Have Been Found"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:218
+#, php-format
+msgid "Found %s Courses"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:224
+msgid "Last updated: "
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:283
+msgid " lessons"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:304
+#: inc/compatibility/learnpress/learnpress.php:305
+#: inc/compatibility/learnpress/learnpress.php:813
+msgid "Advanced"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:307
+#: inc/compatibility/learnpress/learnpress.php:308
+#: inc/compatibility/learnpress/learnpress.php:809
+msgid "Intermediate"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:310
+#: inc/compatibility/learnpress/learnpress.php:311
+#: inc/compatibility/learnpress/learnpress.php:805
+msgid "Beginner"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:313
+#: inc/compatibility/learnpress/learnpress.php:314
+msgid "All level"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:339
+#: inc/compatibility/learnpress/learnpress.php:340
+#: inc/compatibility/learnpress/learnpress.php:341
+#: inc/compatibility/learnpress/learnpress.php:783
+msgid "Free"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:376
+msgid "No Student"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:378
+msgid "1 Student"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:450
+#: inc/compatibility/learnpress/learnpress.php:521
+#, php-format
+msgid "Found %s courses"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:515
+#: inc/compatibility/learnpress/learnpress.php:706
+msgid "All Courses"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:612
+msgid "Sort Courses by"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:619
+msgid "Popularity"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:626
+msgid "latest"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:633
+msgid "Price: Low to High"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:640
+msgid "Price: High to Low"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:656
+#: inc/compatibility/learnpress/learnpress.php:777
+msgid "All"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:665
+msgid "0 to 3 Hours"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:674
+msgid "4 to 6 hours"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:683
+msgid "7 to 9 hours"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:691
+msgid "10+ hours"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:699
+msgid "Rating"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:713
+msgid "4.5 & More"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:720
+msgid "4.0 & More"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:727
+msgid "3.5 & More"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:734
+msgid "3.0 & More"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:742
+msgid "Industry Skills"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:756
+msgid "Categories"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:770
+msgid "Price"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:789
+msgid "Paid"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:801
+msgid "All Level"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:820
+msgid "Search Courses"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:900
+msgid "Learnpress"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:913
+msgid "Processing"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:914
+#: inc/compatibility/learnpress/learnpress.php:915
+msgid "Place order"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:921
+#: inc/compatibility/learnpress/learnpress.php:940
+msgid "Image"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:925
+#: inc/compatibility/learnpress/learnpress.php:956
+msgid "Add Image"
+msgstr ""
+
+#: inc/compatibility/learnpress/learnpress.php:926
+#: inc/compatibility/learnpress/learnpress.php:957
+msgid "Remove Image"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:79
+msgid "Go to Lesson"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:94
+#: inc/compatibility/learnpress/quiz.php:255
+msgid "Lesson content empty"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:95
+msgid ""
+"The lesson content is empty. You can move to next lesson or previous lesson "
+"from the curricilum on right side"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:97
+#: inc/compatibility/learnpress/quiz.php:258
+msgid "+ Add Content"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:105
+#: inc/compatibility/learnpress/quiz.php:266
+msgid "The content is locked"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:106
+#: inc/compatibility/learnpress/quiz.php:267
+msgid ""
+"The content is locked.You need to login and enroll or enroll this course to "
+"get the preview of this section"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:114
+#: inc/compatibility/learnpress/quiz.php:275
+msgid " Enroll this course"
+msgstr ""
+
+#: inc/compatibility/learnpress/lessons.php:132
+#: inc/compatibility/learnpress/quiz.php:290
+msgid "Course: "
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:53
+msgid "Your Got Total : "
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:119
+msgid "Quiz On: "
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:120
+msgid "Total Questions : "
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:121
+msgid "Passing grade : "
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:122
+msgid "Total Time : "
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:122
+msgid " Minutes"
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:124
+msgid "Take this quizz"
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:145
+msgid "Finish"
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:160
+msgid "Prev"
+msgstr ""
+
+#: inc/compatibility/learnpress/quiz.php:256
+msgid ""
+"The content is empty.You can move to next lesson or previous lesson from the "
+"curricilum on right side"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:57
+#: inc/compatibility/learnpress/config/instructor.php:56
+#: inc/compatibility/learnpress/config/single.php:57
+msgid " Student"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:78
+#: inc/compatibility/learnpress/config/instructor.php:77
+#: inc/compatibility/learnpress/config/single.php:78
+msgid "Courses by "
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:81
+#: inc/compatibility/learnpress/config/instructor.php:80
+#: inc/compatibility/learnpress/config/single.php:81
+msgid " has not published any course yet!"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:126
+msgid "Category"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:135
+msgid "Heading styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:170
+#: inc/compatibility/learnpress/config/instructor.php:225
+#: inc/compatibility/learnpress/config/single.php:147
+msgid "Title typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:180
+#: inc/compatibility/learnpress/config/single.php:157
+msgid "Title styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:181
+msgid "Advanced styling category heading"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:209
+msgid "Badge typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:219
+msgid "Badge styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:240
+msgid "Breadcrumb typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:255
+msgid "Filter Design"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:265
+msgid "Filter Select Button Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:266
+msgid "Advanced styling for select menu"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:292
+msgid "Filter Select Button typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:302
+msgid "Filter Select Dropdown Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:324
+msgid "Filter Select Dropdown typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:335
+msgid "Search Input Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:373
+msgid "Search input height"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:382
+msgid "Course styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:392
+#: inc/compatibility/learnpress/config/instructor.php:140
+msgid "Course block styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:424
+msgid "Thumbnail height"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:434
+msgid "Border Radius"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:444
+msgid "Course title typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:455
+#: inc/compatibility/learnpress/config/instructor.php:236
+msgid "Course title styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:500
+msgid "Course description typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:511
+msgid "Course description styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:556
+msgid "Course rating color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:564
+msgid "Course meta typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:572
+msgid "Course meta color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:580
+msgid "Course pricing typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/categories.php:591
+msgid "Course pricing styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:122
+#: inc/compatibility/learnpress/config/single.php:468
+msgid "Instructor"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:130
+msgid "Course Block"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:141
+msgid "Advanced styling for course block"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:167
+msgid "Courses Columns"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:172
+msgid "One column"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:173
+msgid "Two columns"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:174
+msgid "Three columns"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:175
+msgid "Four columns"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:185
+msgid "Image Height"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:194
+#: inc/compatibility/learnpress/config/single.php:516
+msgid "Course Content"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:203
+msgid "Course Content styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:204
+msgid "Advanced styling for course content"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:237
+msgid "Advanced styling for course title"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:278
+msgid "Load More Button"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:285
+msgid "Button typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/instructor.php:296
+msgid "Button styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:126
+msgid "Course Single"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:132
+msgid "Course Header"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:139
+msgid "Heading background color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:185
+msgid "Tags typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:195
+msgid "Tags styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:217
+msgid "Rating Color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:225
+msgid "Date Color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:233
+msgid "Pricing typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:241
+msgid "Purchase button typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:252
+msgid "Purchase Button Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:281
+msgid "Wishlist Button Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:306
+msgid "Course Curriculum"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:316
+msgid "Section Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:349
+msgid "Section Header Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:350
+msgid "Advanced Section Header Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:383
+msgid "Section Heading Text Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:419
+msgid "Section Heading typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:431
+msgid "Section Content List Design"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:432
+msgid "Section Items Styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:460
+msgid "Section List typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:478
+msgid "Instructor Section Design"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:499
+msgid "Instructor Image Border Radius"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:509
+msgid "Description Typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:523
+msgid "Course Preview Height"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:533
+msgid "Course Preview Border Radius"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:545
+msgid "Learning Points styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:565
+msgid "Learning points typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:572
+msgid "Rating Section"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:581
+msgid "Rating Section styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:603
+msgid "Rating Average styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:623
+msgid "Rating Average typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:631
+msgid "Rating Average Number Color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:639
+msgid "Rating Average Star Color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:647
+msgid "Rating Star Color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:655
+msgid "Rating Bar Color"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:663
+#: inc/compatibility/learnpress/config/single.php:711
+msgid "Course Reviews"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:673
+msgid "Course Reviews styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:702
+msgid "Review Image Border Radius"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:721
+msgid "Related Courses styling"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:750
+msgid "Heading typography"
+msgstr ""
+
+#: inc/compatibility/learnpress/config/single.php:758
+msgid "Thumbnail Height"
+msgstr ""
